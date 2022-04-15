@@ -308,6 +308,7 @@ Primary use:
 /*---------------------------------------------*/
 .wrappic1 {
   display: block;
+  align-self: center;
 }
 
 .wrappic1 img {
